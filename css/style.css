@@ -1,6 +1,5 @@
 html {
     background: url('../img/BGI.png');
-    overflow: scroll;
 }
 
 .phone {
@@ -10,7 +9,7 @@ html {
     border-radius: 45px;
     background-color: #ffffff;
     padding: 88px 24px;
-    position: fixed;
+    position: relative;
     left: 10px;
     top: 10px;
     box-shadow: 5px 5px 15px -4px gray;
